@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="180" height="180" viewBox="0 0 180 180">
+  <rect width="180" height="180" rx="90" fill="#e8eefc"/>
+  <circle cx="90" cy="66" r="31" fill="#8aa5d8"/>
+  <path d="M34 165c5-34 27-53 56-53s51 19 56 53" fill="#8aa5d8"/>
+  <text x="90" y="102" text-anchor="middle" font-family="Arial, sans-serif" font-size="25" font-weight="bold" fill="#ffffff">BN</text>
+</svg>
